@@ -1,0 +1,8 @@
+.idea
+/vendor
+/runtime
+/config.php
+/index.php
+/sip.json
+/webhook.json
+/composer.lock
